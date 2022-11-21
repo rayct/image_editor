@@ -1,3 +1,4 @@
+# import pip install Pillow
 from PIL import Image, ImageEnhance, ImageFilter
 import os
 
