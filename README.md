@@ -1,1 +1,1 @@
-# A Simple Image Editor in Python# image_editor
+# A Simple Image Editor in Python
